@@ -30,9 +30,9 @@ def n2ata3it_aw_ba3ed():
 def n2ata3it():
     kahraba = False
     print("Host is down")
-    if first_run = False:
+    if first_run == False:
         requests.get(no_URL)
-    if first_run = True:
+    if first_run == True:
         first_run = False
 #    requests.get(no_URL)
 
